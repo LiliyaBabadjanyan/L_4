@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+label {
+    font-family: "Times New Roman";
+}
+.main-block {
+    width: 40%;
+    margin: auto;
+    background-color: #8ae1d4;
+    padding: 30px;
+}
